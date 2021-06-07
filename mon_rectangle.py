@@ -9,8 +9,8 @@ from point import Point
 from math import pi ,sqrt
 import matplotlib
 import matplotlib.pyplot as plt
-from matplotlib.patches import Rectangle # Nom de la classe Rectangle de la biblio matplolib
-#from matplotlib.patches import Rectangle as Rc # Renommage (ne marche pas)
+from matplotlib.patches import Rectangle # Nom  methode Rectangle de la biblio matplolib
+
 
 class MonRectangle(): # nom de ma classe
     """ Classe MonRectangle : Définit la longueur, la largeur , un point initiale P0, 
